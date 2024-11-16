@@ -14,13 +14,16 @@ Our application, StunBy: Indonesian Baby Growth Tracking App, aims to holistical
 ## Tech Stack
 
 ### Mobile Application:
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 
 ### Backend Server:
-[![My Skills](https://skillicons.dev/icons?i=js,express,postgres,prisma,supabase,docker,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,express,postgres,prisma,supabase,docker,gcp,terraform)](https://skillicons.dev)
 
 
 ### Machine Learning Model:
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
+
 
 
 ## Contributing
