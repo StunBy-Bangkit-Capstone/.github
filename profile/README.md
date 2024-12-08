@@ -10,6 +10,7 @@ Our application, StunBy: Indonesian Baby Growth Tracking App, aims to holistical
 
 ## Additional Features
 - Nutritional Calculator
+- Articles
 
 ## Tech Stack
 
@@ -21,8 +22,8 @@ Our application, StunBy: Indonesian Baby Growth Tracking App, aims to holistical
 [![My Skills](https://skillicons.dev/icons?i=js,express,postgres,prisma,supabase,docker,gcp,terraform)](https://skillicons.dev)
 
 
-### Machine Learning Model:
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://skillicons.dev)
+### Machine Learning:
+[![My Skills](https://skillicons.dev/icons?i=py,flask,tensorflow)](https://skillicons.dev)
 
 
 
